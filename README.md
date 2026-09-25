@@ -1,4 +1,4 @@
-3# Hello! I'm Hannan!
+# Hello! I'm Hannan!
 
 ## DevOPS Engineer and Backend Application Developer.
 I'm learning to be a DevOPS Engineer, with experience in Docker, Python, Linux, Bash, CI/CD. I've been working with [Sitebolts](https://sitebolts.com) since November, 2025. I'm working there as a DevOPS Engineer and a Backend application developer with Python and FastAPI.
