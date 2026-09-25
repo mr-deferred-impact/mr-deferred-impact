@@ -1,4 +1,4 @@
-# Hello! I'm Hannan!
+3# Hello! I'm Hannan!
 
 ## DevOPS Engineer and Backend Application Developer.
 I'm learning to be a DevOPS Engineer, with experience in Docker, Python, Linux, Bash, CI/CD. I've been working with [Sitebolts](https://sitebolts.com) since November, 2025. I'm working there as a DevOPS Engineer and a Backend application developer with Python and FastAPI.
@@ -20,10 +20,11 @@ My engine of choice at the moment is Godot and I use it with it's domain-specifi
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 [![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#)
+[![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
 
 ## Dev Environment
 
-Text Editors: [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#) [![Zed](https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF)](#) [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#) [![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&logo=gnu-emacs&logoColor=white)](#)
+Text Editors: [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#) [![Zed]
 
 Terminal: [![Ghostty](https://custom-icon-badges.demolab.com/badge/Ghostty-0000ff?logo=ghostty_term)](#)
 
