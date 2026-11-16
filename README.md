@@ -33,7 +33,7 @@ Text Editors: [![Visual Studio Code](https://custom-icon-badges.demolab.com/badg
 
 Terminal: [![Ghostty](https://custom-icon-badges.demolab.com/badge/Ghostty-0000ff?logo=ghostty_term)](#)
 
-Operating System: [![CachyOS](https://img.shields.io/badge/CachyOS-0A8?logo=cachyos&logoColor=000)](#)
+Operating System: [![CachyOS](https://img.shields.io/badge/CachyOS-0A8?logo=cachyos&logoColor=fff)](#)
 
 Desktop Environment: 
 KDE Plasma	[![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1D99F3?logo=kdeplasma&logoColor=fff)](#)
