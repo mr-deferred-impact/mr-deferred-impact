@@ -4,11 +4,15 @@
 I'm learning to be a DevOPS Engineer, with experience in Docker, Python, Linux, Bash, CI/CD. I've been working with [Sitebolts](https://sitebolts.com) since November, 2025. I'm working there as a DevOPS Engineer and a Backend application developer with Python and FastAPI.
 
 ## Game Developer and Tester.
-My engine of choice at the moment is Godot and I use it with it's domain-specific language (DSL) - GDScript! I've been learning Godot since 2024, but my busy work hours and study have rendered me impossible to dedicate my time and energy to a big project at the moment. I've made some small games like top-down shooters, tower defense, platformers, and space shooters in Godot 4. Since January, 2025, I've been working with [GDQuest](https://gdquest.com) in testing out the most high-quality paid Godot 4 courses, that are currently being taught in many Game-Dev schools across France and Europe.
+My engine of choice at the moment is Godot and I use it with C#! I've been learning Godot since 2024, but my busy work hours and study have rendered me impossible to dedicate my time and energy to a big project at the moment. I've made some small games like top-down shooters, tower defense, platformers, and space shooters in Godot 4. Since January, 2025, I've been working with [GDQuest](https://gdquest.com) in testing out the most high-quality paid Godot 4 courses, that are currently being taught in many Game-Dev schools across France and Europe.
 
 ## Tech Stack
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
@@ -21,6 +25,7 @@ My engine of choice at the moment is Godot and I use it with it's domain-specifi
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 [![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#)
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
+[![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)
 
 ## Dev Environment
 
@@ -28,7 +33,7 @@ Text Editors: [![Visual Studio Code](https://custom-icon-badges.demolab.com/badg
 
 Terminal: [![Ghostty](https://custom-icon-badges.demolab.com/badge/Ghostty-0000ff?logo=ghostty_term)](#)
 
-Operating System: [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
+Operating System: [![CachyOS](https://img.shields.io/badge/CachyOS-0A8?logo=cachyos&logoColor=000)](#)
 
 Desktop Environment: 
 KDE Plasma	[![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1D99F3?logo=kdeplasma&logoColor=fff)](#)
